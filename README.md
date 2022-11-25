@@ -1,1 +1,1 @@
-ALX monty project
+ALX monty project in C
